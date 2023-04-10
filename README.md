@@ -28,5 +28,5 @@
 11) Система - `Авто-обновления данных в БД, через промежуток времени к примеру: "Каждые 7дн"`
 12) Система - `API`
 
-- 1) https://github.com/Developer-Python/Django
-- 2) https://github.com/Developer-Python/app-google-sheets
+- https://github.com/Developer-Python/Django
+- https://github.com/Developer-Python/app-google-sheets
